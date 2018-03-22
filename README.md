@@ -1,13 +1,6 @@
 Twitter Bot
 ===================
 ----------
-
-
-### Table of contents
-
-
-[TOC]
-
 Starting the bot
 -------------
 
