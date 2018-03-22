@@ -2,7 +2,10 @@ console.log('The bot is starting!');
 
 //Imports
 var Twit = require('twit');
-var Config = require('./config');
+/*  This must refer to the file that contains the keys for your twitter account
+                        var Config = require('./config'); 
+    Use this to keeo the project structure intact and comment the next line */
+    var Config = require('../config.js');
 
 
 
